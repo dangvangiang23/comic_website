@@ -23,10 +23,11 @@ and optimazing codes. The project also lacks a few interesting features...
 - Improve it with hibernate/spring boot/ API
 - Update it online
   ![image](https://github.com/Gokugiang/comic_website/assets/88626723/e4d634ff-a417-475c-841e-b32ae1d8065c)
+   ![image](https://github.com/Gokugiang/comic_website/assets/88626723/f414fc4e-9e32-4d11-8128-7b451181ab39)
    ![image](https://github.com/Gokugiang/comic_website/assets/88626723/257bfc62-0d85-48a1-8c3b-e7d734071011)
   ![image](https://github.com/Gokugiang/comic_website/assets/88626723/b84ccbce-9b25-4d82-a3b4-185d9e2f0f59)
   ![image](https://github.com/Gokugiang/comic_website/assets/88626723/f9b79750-10c8-4bf6-8e64-70528b47a6cc)
- ![image](https://github.com/Gokugiang/comic_website/assets/88626723/f414fc4e-9e32-4d11-8128-7b451181ab39)
+
  
 Bonus: I designed the logo... !!!
 
