@@ -27,6 +27,7 @@ and optimazing codes. The project also lacks a few interesting features...
  ![image](https://github.com/Gokugiang/comic_website/assets/88626723/257bfc62-0d85-48a1-8c3b-e7d734071011)
  ![image](https://github.com/Gokugiang/comic_website/assets/88626723/f414fc4e-9e32-4d11-8128-7b451181ab39)
  
+Bonus: I designed this logo ![image](https://github.com/Gokugiang/comic_website/assets/88626723/95912cc6-fff8-4fda-b739-3a58bc7f8398)
 
 
 
