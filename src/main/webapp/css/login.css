@@ -1,0 +1,74 @@
+.login{
+display: flex;
+align-items: center; 
+justify-content: center; 
+height: 100vh;
+
+}
+
+.box {
+    background: #fff;
+    padding: 30px;
+    padding-right: 68px;
+    border-radius: 4px;
+    box-shadow: 1px 0px 7px #bdbdbd;
+    /* margin-right: 31px; */
+    background-image: url(https://mcdn.wallpapersafari.com/medium/7/85/LRFqhu.jpg);
+}
+.box-title img{
+    width: 250px;
+    height: 50px;
+    position: relative;  
+    margin-left: 20px; 
+    border-radius: 50px;
+
+}
+.box-body{
+margin-top: 30px;
+}
+.box-footer{
+	margin-top: 20px;
+}
+.box-footer a{
+	text-decoration: none;
+	background: orange;
+	box-shadow: 1px 0px 7px #bdbdbd;
+	color: white;
+
+}
+.captcha {
+	width: 50px;
+	height: 20px;
+	display: inline-block;
+}
+
+.box-body input[type=password], .box-body input[type=text] {
+    background: #fff;
+    border-radius: 4px;
+    color: #333;
+    border: 1px solid #ddd;
+    height: 36px;
+    position: relative;
+    z-index: 2;
+    padding: 0 20px;
+    width: 100%;
+    font-size: 14px;
+}
+.box-footer .signup {
+	font-size: 20px;
+}
+.signup a, button {
+	float:  right;
+    color: #fff;
+    padding: 9px 12px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 4px;
+    color: #fff;
+    transition: all .3s ease;
+    background: #f0ad4e;
+}
+.signup a {
+	float:  left;
+}
